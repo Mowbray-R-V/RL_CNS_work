@@ -1,0 +1,720 @@
+
+ entry ID:1, over:{1: [1]}, at time:18.0
+ entry ID:3, over:{1: [1], 2: [3]}, at time:18.0
+ entry ID:1, over:{1: [1], 2: [3]}, at time:19.0
+ entry ID:3, over:{1: [1], 2: [3]}, at time:19.0
+ exit ID:1, over:{1: [1], 2: [3]}, removed at time:19.0
+
+ entry ID:3, over:{2: [3]}, at time:20.0
+ exit ID:3, over:{2: [3]}, removed at time:20.0
+
+ entry ID:8, over:{4: [8]}, at time:27.0
+ exit ID:8, over:{4: [8]}, removed at time:27.0
+
+ entry ID:9, over:{7: [9]}, at time:32.0
+ exit ID:9, over:{7: [9]}, removed at time:32.0
+
+ entry ID:12, over:{4: [12]}, at time:34.0
+ entry ID:14, over:{4: [12], 5: [14]}, at time:34.0
+ entry ID:12, over:{4: [12], 5: [14]}, at time:35.0
+ entry ID:14, over:{4: [12], 5: [14]}, at time:35.0
+ exit ID:14, over:{4: [12], 5: [14]}, removed at time:35.0
+
+ entry ID:12, over:{4: [12]}, at time:36.0
+ entry ID:12, over:{4: [12]}, at time:37.0
+ exit ID:12, over:{4: [12]}, removed at time:37.0
+
+ entry ID:15, over:{2: [15]}, at time:42.0
+ entry ID:15, over:{2: [15]}, at time:43.0
+ exit ID:15, over:{2: [15]}, removed at time:43.0
+
+ entry ID:25, over:{1: [25]}, at time:45.0
+ entry ID:25, over:{1: [25]}, at time:46.0
+ entry ID:16, over:{1: [25], 5: [16]}, at time:46.0
+ entry ID:20, over:{1: [25], 5: [16, 20]},  at time:46.0
+ exit ID:25, over:{1: [25], 5: [16, 20]}, removed at time:46.0
+
+ entry ID:16, over:{5: [16, 20]}, at time:47.0
+ entry ID:20, over:{5: [16, 20]}, at time:47.0
+ exit ID:16, over:{5: [16, 20]}, removed at time:47.0
+
+ entry ID:20, over:{5: [20]}, at time:48.0
+ exit ID:20, over:{5: [20]}, removed at time:48.0
+
+ entry ID:27, over:{8: [27]}, at time:53.0
+ entry ID:31, over:{8: [27, 31]}, at time:53.0
+ exit ID:27, over:{8: [27, 31]}, removed at time:53.0
+
+ entry ID:31, over:{8: [31]}, at time:54.0
+ exit ID:31, over:{8: [31]}, removed at time:54.0
+
+ entry ID:29, over:{5: [29]}, at time:58.0
+ entry ID:33, over:{5: [29], 11: [33]}, at time:58.0
+ entry ID:37, over:{5: [29], 11: [33, 37]}, at time:58.0
+ exit ID:29, over:{5: [29], 11: [33, 37]}, removed at time:58.0
+
+ entry ID:33, over:{11: [33, 37]}, at time:59.0
+ entry ID:37, over:{11: [33, 37]}, at time:59.0
+ exit ID:33, over:{11: [33, 37]}, removed at time:59.0
+
+ exit ID:37, over:{11: [37]}, removed at time:59.0
+
+ entry ID:35, over:{1: [35]}, at time:64.0
+ entry ID:34, over:{1: [35], 2: [34]}, at time:64.0
+ exit ID:35, over:{1: [35], 2: [34]}, removed at time:64.0
+
+ exit ID:34, over:{2: [34]}, removed at time:64.0
+
+ entry ID:40, over:{10: [40]}, at time:70.0
+ exit ID:40, over:{10: [40]}, removed at time:70.0
+
+ entry ID:47, over:{4: [47]}, at time:72.0
+ entry ID:47, over:{4: [47]}, at time:73.0
+ entry ID:47, over:{4: [47]}, at time:74.0
+ exit ID:47, over:{4: [47]}, removed at time:74.0
+
+ entry ID:43, over:{8: [43]}, at time:75.0
+ entry ID:43, over:{8: [43]}, at time:76.0
+ exit ID:43, over:{8: [43]}, removed at time:76.0
+
+ entry ID:48, over:{5: [48]}, at time:80.0
+ entry ID:48, over:{5: [48]}, at time:81.0
+ entry ID:51, over:{5: [48], 11: [51]}, at time:81.0
+ exit ID:48, over:{5: [48], 11: [51]}, removed at time:81.0
+
+ exit ID:51, over:{11: [51]}, removed at time:81.0
+
+ entry ID:49, over:{2: [49]}, at time:86.0
+ entry ID:53, over:{2: [49, 53]}, at time:86.0
+ exit ID:49, over:{2: [49, 53]}, removed at time:86.0
+
+ entry ID:53, over:{2: [53]}, at time:87.0
+ entry ID:53, over:{2: [53]}, at time:88.0
+ exit ID:53, over:{2: [53]}, removed at time:88.0
+
+ entry ID:50, over:{4: [50]}, at time:93.0
+ entry ID:52, over:{4: [50, 52]}, at time:93.0
+ entry ID:54, over:{4: [50, 52, 54]}, at time:93.0
+ entry ID:57, over:{4: [50, 52, 54], 5: [57]}, at time:93.0
+ entry ID:61, over:{4: [50, 52, 54], 5: [57, 61]}, at time:93.0
+ exit ID:50, over:{4: [50, 52, 54], 5: [57, 61]}, removed at time:93.0
+
+ exit ID:57, over:{4: [52, 54], 5: [57, 61]}, removed at time:93.0
+
+ entry ID:52, over:{4: [52, 54], 5: [61]}, at time:94.0
+ entry ID:54, over:{4: [52, 54], 5: [61]}, at time:94.0
+ entry ID:61, over:{4: [52, 54], 5: [61]}, at time:94.0
+ exit ID:52, over:{4: [52, 54], 5: [61]}, removed at time:94.0
+
+ exit ID:61, over:{4: [54], 5: [61]}, removed at time:94.0
+
+ entry ID:54, over:{4: [54]}, at time:95.0
+ exit ID:54, over:{4: [54]}, removed at time:95.0
+
+ entry ID:62, over:{10: [62]}, at time:101.0
+ entry ID:64, over:{10: [62], 11: [64]}, at time:101.0
+ entry ID:66, over:{10: [62], 11: [64, 66]}, at time:101.0
+ entry ID:69, over:{10: [62], 11: [64, 66, 69]},  at time:101.0
+ exit ID:64, over:{10: [62], 11: [64, 66, 69]}, removed at time:101.0
+
+ entry ID:62, over:{10: [62], 11: [66, 69]}, at time:102.0
+ entry ID:66, over:{10: [62], 11: [66, 69]}, at time:102.0
+ entry ID:69, over:{10: [62], 11: [66, 69]}, at time:102.0
+ exit ID:66, over:{10: [62], 11: [66, 69]}, removed at time:102.0
+
+ entry ID:62, over:{10: [62], 11: [69]}, at time:103.0
+ entry ID:69, over:{10: [62], 11: [69]}, at time:103.0
+ exit ID:69, over:{10: [62], 11: [69]}, removed at time:103.0
+
+ entry ID:62, over:{10: [62]}, at time:104.0
+ exit ID:62, over:{10: [62]}, removed at time:104.0
+
+ entry ID:58, over:{8: [58]}, at time:106.0
+ entry ID:58, over:{8: [58]}, at time:107.0
+ entry ID:58, over:{8: [58]}, at time:108.0
+ exit ID:58, over:{8: [58]}, removed at time:108.0
+
+ entry ID:73, over:{2: [73]}, at time:111.0
+ exit ID:73, over:{2: [73]}, removed at time:111.0
+
+ entry ID:74, over:{1: [74]}, at time:114.0
+ entry ID:79, over:{1: [74, 79]}, at time:114.0
+ entry ID:71, over:{1: [74, 79], 5: [71]}, at time:114.0
+ entry ID:77, over:{1: [74, 79], 5: [71, 77]}, at time:114.0
+ exit ID:74, over:{1: [74, 79], 5: [71, 77]}, removed at time:114.0
+
+ exit ID:71, over:{1: [79], 5: [71, 77]}, removed at time:114.0
+
+ entry ID:79, over:{1: [79], 5: [77]}, at time:115.0
+ entry ID:77, over:{1: [79], 5: [77]}, at time:115.0
+ exit ID:79, over:{1: [79], 5: [77]}, removed at time:115.0
+
+ entry ID:77, over:{5: [77]}, at time:116.0
+ exit ID:77, over:{5: [77]}, removed at time:116.0
+
+ entry ID:82, over:{8: [82]}, at time:121.0
+ entry ID:84, over:{8: [82, 84]}, at time:121.0
+ entry ID:87, over:{8: [82, 84, 87]},  at time:121.0
+ exit ID:82, over:{8: [82, 84, 87]}, removed at time:121.0
+
+ entry ID:83, over:{8: [84, 87], 7: [83]}, at time:122.0
+ entry ID:92, over:{8: [84, 87], 7: [83, 92]}, at time:122.0
+ entry ID:84, over:{8: [84, 87], 7: [83, 92]}, at time:122.0
+ entry ID:87, over:{8: [84, 87], 7: [83, 92]}, at time:122.0
+ exit ID:83, over:{8: [84, 87], 7: [83, 92]}, removed at time:122.0
+
+ entry ID:92, over:{8: [84, 87], 7: [92]}, at time:123.0
+ entry ID:84, over:{8: [84, 87], 7: [92]}, at time:123.0
+ entry ID:87, over:{8: [84, 87], 7: [92]}, at time:123.0
+ exit ID:84, over:{8: [84, 87], 7: [92]}, removed at time:123.0
+
+ entry ID:92, over:{8: [87], 7: [92]}, at time:124.0
+ entry ID:87, over:{8: [87], 7: [92]}, at time:124.0
+ exit ID:92, over:{8: [87], 7: [92]}, removed at time:124.0
+
+ exit ID:87, over:{8: [87]}, removed at time:124.0
+
+ entry ID:93, over:{5: [93]}, at time:128.0
+ entry ID:96, over:{5: [93, 96]},  at time:128.0
+ entry ID:85, over:{5: [93, 96], 11: [85]}, at time:128.0
+ entry ID:88, over:{5: [93, 96], 11: [85, 88]},  at time:128.0
+ entry ID:93, over:{5: [93, 96], 11: [85, 88]}, at time:129.0
+ entry ID:96, over:{5: [93, 96], 11: [85, 88]}, at time:129.0
+ entry ID:85, over:{5: [93, 96], 11: [85, 88]}, at time:129.0
+ entry ID:88, over:{5: [93, 96], 11: [85, 88]}, at time:129.0
+ exit ID:93, over:{5: [93, 96], 11: [85, 88]}, removed at time:129.0
+
+ exit ID:85, over:{5: [96], 11: [85, 88]}, removed at time:129.0
+
+ entry ID:96, over:{5: [96], 11: [88]}, at time:130.0
+ entry ID:88, over:{5: [96], 11: [88]}, at time:130.0
+ exit ID:96, over:{5: [96], 11: [88]}, removed at time:130.0
+
+ exit ID:88, over:{11: [88]}, removed at time:130.0
+
+ entry ID:100, over:{10: [100]},  at time:136.0
+ entry ID:100, over:{10: [100]}, at time:137.0
+ entry ID:98, over:{10: [100], 2: [98]}, at time:138.0
+ entry ID:100, over:{10: [100], 2: [98]}, at time:138.0
+ entry ID:98, over:{10: [100], 2: [98]}, at time:139.0
+ entry ID:100, over:{10: [100], 2: [98]}, at time:139.0
+ exit ID:98, over:{10: [100], 2: [98]}, removed at time:139.0
+
+ exit ID:100, over:{10: [100]}, removed at time:139.0
+
+ entry ID:94, over:{4: [94]}, at time:144.0
+ entry ID:99, over:{4: [94, 99]}, at time:144.0
+ entry ID:102, over:{4: [94, 99, 102]}, at time:144.0
+ entry ID:97, over:{4: [94, 99, 102], 8: [97]}, at time:144.0
+ exit ID:94, over:{4: [94, 99, 102], 8: [97]}, removed at time:144.0
+
+ exit ID:97, over:{4: [99, 102], 8: [97]}, removed at time:144.0
+
+ entry ID:99, over:{4: [99, 102]}, at time:145.0
+ entry ID:102, over:{4: [99, 102]}, at time:145.0
+ exit ID:99, over:{4: [99, 102]}, removed at time:145.0
+
+ entry ID:102, over:{4: [102]}, at time:146.0
+ exit ID:102, over:{4: [102]}, removed at time:146.0
+
+ entry ID:107, over:{5: [107]}, at time:151.0
+ entry ID:109, over:{5: [107, 109]}, at time:151.0
+ exit ID:107, over:{5: [107, 109]}, removed at time:151.0
+
+ entry ID:109, over:{5: [109]}, at time:152.0
+ exit ID:109, over:{5: [109]}, removed at time:152.0
+
+ entry ID:108, over:{7: [108]}, at time:155.0
+ entry ID:111, over:{7: [108, 111]},  at time:155.0
+ entry ID:106, over:{7: [108, 111], 8: [106]}, at time:155.0
+ entry ID:108, over:{7: [108, 111], 8: [106]}, at time:156.0
+ entry ID:111, over:{7: [108, 111], 8: [106]}, at time:156.0
+ entry ID:106, over:{7: [108, 111], 8: [106]}, at time:156.0
+ exit ID:108, over:{7: [108, 111], 8: [106]}, removed at time:156.0
+
+ exit ID:106, over:{7: [111], 8: [106]}, removed at time:156.0
+
+ entry ID:111, over:{7: [111]}, at time:157.0
+ exit ID:111, over:{7: [111]}, removed at time:157.0
+
+ entry ID:116, over:{11: [116]}, at time:160.0
+ exit ID:116, over:{11: [116]}, removed at time:160.0
+
+ entry ID:114, over:{4: [114]}, at time:163.0
+ entry ID:110, over:{4: [114], 10: [110]}, at time:163.0
+ exit ID:110, over:{4: [114], 10: [110]}, removed at time:163.0
+
+ entry ID:114, over:{4: [114]}, at time:164.0
+ entry ID:114, over:{4: [114]}, at time:165.0
+ exit ID:114, over:{4: [114]}, removed at time:165.0
+
+ entry ID:124, over:{7: [124]}, at time:173.0
+ entry ID:126, over:{7: [124, 126]}, at time:173.0
+ entry ID:127, over:{7: [124, 126], 8: [127]}, at time:173.0
+ exit ID:124, over:{7: [124, 126], 8: [127]}, removed at time:173.0
+
+ entry ID:126, over:{7: [126], 8: [127]}, at time:174.0
+ entry ID:127, over:{7: [126], 8: [127]}, at time:174.0
+ exit ID:126, over:{7: [126], 8: [127]}, removed at time:174.0
+
+ entry ID:127, over:{8: [127]}, at time:175.0
+ exit ID:127, over:{8: [127]}, removed at time:175.0
+
+ entry ID:130, over:{11: [130]}, at time:180.0
+ entry ID:134, over:{11: [130, 134]}, at time:180.0
+ exit ID:130, over:{11: [130, 134]}, removed at time:180.0
+
+ entry ID:132, over:{11: [134], 5: [132]}, at time:181.0
+ entry ID:135, over:{11: [134], 5: [132, 135]}, at time:181.0
+ entry ID:134, over:{11: [134], 5: [132, 135]}, at time:181.0
+ exit ID:132, over:{11: [134], 5: [132, 135]}, removed at time:181.0
+
+ exit ID:135, over:{11: [134], 5: [135]}, removed at time:181.0
+
+ exit ID:134, over:{11: [134]}, removed at time:181.0
+
+ entry ID:131, over:{4: [131]}, at time:187.0
+ entry ID:133, over:{4: [131], 10: [133]}, at time:187.0
+ exit ID:131, over:{4: [131], 10: [133]}, removed at time:187.0
+
+ exit ID:133, over:{10: [133]}, removed at time:187.0
+
+ entry ID:143, over:{1: [143]},  at time:192.0
+ entry ID:138, over:{1: [143], 7: [138]}, at time:193.0
+ exit ID:138, over:{1: [143], 7: [138]}, removed at time:193.0
+
+ exit ID:143, over:{1: [143]}, removed at time:194.0
+
+ entry ID:141, over:{2: [141]}, at time:199.0
+ entry ID:144, over:{2: [141, 144]}, at time:199.0
+ entry ID:146, over:{2: [141, 144, 146]}, at time:199.0
+ exit ID:141, over:{2: [141, 144, 146]}, removed at time:199.0
+
+ entry ID:144, over:{2: [144, 146]}, at time:200.0
+ entry ID:146, over:{2: [144, 146]}, at time:200.0
+ exit ID:144, over:{2: [144, 146]}, removed at time:200.0
+
+ entry ID:146, over:{2: [146]}, at time:201.0
+ exit ID:146, over:{2: [146]}, removed at time:201.0
+
+ entry ID:145, over:{11: [145]}, at time:206.0
+ exit ID:145, over:{11: [145]}, removed at time:206.0
+
+ entry ID:147, over:{4: [147]}, at time:210.0
+ entry ID:147, over:{4: [147]}, at time:211.0
+ entry ID:151, over:{4: [147], 8: [151]}, at time:211.0
+ exit ID:147, over:{4: [147], 8: [151]}, removed at time:211.0
+
+ entry ID:151, over:{8: [151]}, at time:212.0
+ exit ID:151, over:{8: [151]}, removed at time:212.0
+
+ entry ID:154, over:{2: [154]}, at time:218.0
+ exit ID:154, over:{2: [154]}, removed at time:218.0
+
+ entry ID:159, over:{5: [159]}, at time:222.0
+ entry ID:159, over:{5: [159]}, at time:223.0
+ exit ID:159, over:{5: [159]}, removed at time:223.0
+
+ entry ID:163, over:{1: [163]}, at time:226.0
+ entry ID:156, over:{1: [163], 7: [156]}, at time:226.0
+ entry ID:162, over:{1: [163], 7: [156, 162]},  at time:226.0
+ exit ID:163, over:{1: [163], 7: [156, 162]}, removed at time:226.0
+
+ entry ID:156, over:{7: [156, 162]}, at time:227.0
+ entry ID:162, over:{7: [156, 162]}, at time:227.0
+ exit ID:156, over:{7: [156, 162]}, removed at time:227.0
+
+ entry ID:162, over:{7: [162]}, at time:228.0
+ exit ID:162, over:{7: [162]}, removed at time:228.0
+
+ entry ID:167, over:{4: [167]}, at time:234.0
+ exit ID:167, over:{4: [167]}, removed at time:234.0
+
+ entry ID:164, over:{2: [164]}, at time:239.0
+ entry ID:172, over:{2: [164, 172]}, at time:239.0
+ exit ID:164, over:{2: [164, 172]}, removed at time:239.0
+
+ entry ID:172, over:{2: [172]}, at time:240.0
+ entry ID:172, over:{2: [172]}, at time:241.0
+ exit ID:172, over:{2: [172]}, removed at time:241.0
+
+ entry ID:173, over:{5: [173]}, at time:245.0
+ entry ID:177, over:{5: [173, 177]},  at time:245.0
+ entry ID:173, over:{5: [173, 177]}, at time:246.0
+ entry ID:177, over:{5: [173, 177]}, at time:246.0
+ exit ID:173, over:{5: [173, 177]}, removed at time:246.0
+
+ entry ID:177, over:{5: [177]}, at time:247.0
+ exit ID:177, over:{5: [177]}, removed at time:247.0
+
+ entry ID:179, over:{8: [179]}, at time:252.0
+ entry ID:179, over:{8: [179]}, at time:253.0
+ entry ID:179, over:{8: [179]}, at time:254.0
+ exit ID:179, over:{8: [179]}, removed at time:254.0
+
+ entry ID:182, over:{4: [182]}, at time:258.0
+ entry ID:181, over:{4: [182], 10: [181]}, at time:258.0
+ entry ID:183, over:{4: [182], 10: [181, 183]}, at time:258.0
+ exit ID:182, over:{4: [182], 10: [181, 183]}, removed at time:258.0
+
+ entry ID:181, over:{10: [181, 183]}, at time:259.0
+ entry ID:183, over:{10: [181, 183]}, at time:259.0
+ exit ID:181, over:{10: [181, 183]}, removed at time:259.0
+
+ entry ID:183, over:{10: [183]}, at time:260.0
+ exit ID:183, over:{10: [183]}, removed at time:260.0
+
+ entry ID:186, over:{2: [186]}, at time:263.0
+ entry ID:186, over:{2: [186]}, at time:264.0
+ exit ID:186, over:{2: [186]}, removed at time:264.0
+
+ entry ID:185, over:{1: [185]}, at time:265.0
+ exit ID:185, over:{1: [185]}, removed at time:265.0
+
+ entry ID:194, over:{7: [194]}, at time:269.0
+ entry ID:191, over:{7: [194], 11: [191]}, at time:269.0
+ entry ID:194, over:{7: [194], 11: [191]}, at time:270.0
+ entry ID:191, over:{7: [194], 11: [191]}, at time:270.0
+ exit ID:194, over:{7: [194], 11: [191]}, removed at time:270.0
+
+ exit ID:191, over:{11: [191]}, removed at time:270.0
+
+ entry ID:196, over:{4: [196]}, at time:277.0
+ exit ID:196, over:{4: [196]}, removed at time:277.0
+
+ entry ID:200, over:{10: [200]}, at time:281.0
+ exit ID:200, over:{10: [200]}, removed at time:281.0
+
+ entry ID:192, over:{1: [192]}, at time:284.0
+ entry ID:192, over:{1: [192]}, at time:285.0
+ exit ID:192, over:{1: [192]}, removed at time:285.0
+
+ entry ID:208, over:{5: [208]}, at time:287.0
+ entry ID:208, over:{5: [208]}, at time:288.0
+ entry ID:208, over:{5: [208]}, at time:289.0
+ entry ID:202, over:{5: [208], 11: [202]}, at time:289.0
+ entry ID:206, over:{5: [208], 11: [202, 206]},  at time:289.0
+ exit ID:208, over:{5: [208], 11: [202, 206]}, removed at time:289.0
+
+ entry ID:202, over:{11: [202, 206]}, at time:290.0
+ entry ID:206, over:{11: [202, 206]}, at time:290.0
+ exit ID:202, over:{11: [202, 206]}, removed at time:290.0
+
+ entry ID:206, over:{11: [206]}, at time:291.0
+ exit ID:206, over:{11: [206]}, removed at time:291.0
+
+ entry ID:205, over:{7: [205]}, at time:293.0
+ entry ID:211, over:{7: [205, 211]}, at time:293.0
+ exit ID:205, over:{7: [205, 211]}, removed at time:293.0
+
+ entry ID:211, over:{7: [211]}, at time:294.0
+ exit ID:211, over:{7: [211]}, removed at time:294.0
+
+ entry ID:209, over:{8: [209]}, at time:296.0
+ entry ID:216, over:{8: [209, 216]},  at time:296.0
+ entry ID:209, over:{8: [209, 216]}, at time:297.0
+ entry ID:216, over:{8: [209, 216]}, at time:297.0
+ exit ID:209, over:{8: [209, 216]}, removed at time:297.0
+
+ entry ID:216, over:{8: [216]}, at time:298.0
+ entry ID:216, over:{8: [216]}, at time:299.0
+ exit ID:216, over:{8: [216]}, removed at time:299.0
+
+ entry ID:207, over:{1: [207]}, at time:301.0
+ entry ID:218, over:{1: [207], 2: [218]}, at time:301.0
+ entry ID:207, over:{1: [207], 2: [218]}, at time:302.0
+ entry ID:218, over:{1: [207], 2: [218]}, at time:302.0
+ entry ID:207, over:{1: [207], 2: [218]}, at time:303.0
+ entry ID:218, over:{1: [207], 2: [218]}, at time:303.0
+ exit ID:207, over:{1: [207], 2: [218]}, removed at time:303.0
+
+ exit ID:218, over:{2: [218]}, removed at time:303.0
+
+ entry ID:223, over:{11: [223]}, at time:308.0
+ entry ID:227, over:{11: [223, 227]}, at time:308.0
+ entry ID:228, over:{11: [223, 227, 228]},  at time:308.0
+ exit ID:223, over:{11: [223, 227, 228]}, removed at time:308.0
+
+ entry ID:219, over:{11: [227, 228], 10: [219]}, at time:309.0
+ entry ID:222, over:{11: [227, 228], 10: [219, 222]}, at time:309.0
+ entry ID:226, over:{11: [227, 228], 10: [219, 222, 226]}, at time:309.0
+ entry ID:227, over:{11: [227, 228], 10: [219, 222, 226]}, at time:309.0
+ entry ID:228, over:{11: [227, 228], 10: [219, 222, 226]}, at time:309.0
+ exit ID:219, over:{11: [227, 228], 10: [219, 222, 226]}, removed at time:309.0
+
+ exit ID:227, over:{11: [227, 228], 10: [222, 226]}, removed at time:309.0
+
+ entry ID:222, over:{11: [228], 10: [222, 226]}, at time:310.0
+ entry ID:226, over:{11: [228], 10: [222, 226]}, at time:310.0
+ entry ID:228, over:{11: [228], 10: [222, 226]}, at time:310.0
+ exit ID:222, over:{11: [228], 10: [222, 226]}, removed at time:310.0
+
+ exit ID:228, over:{11: [228], 10: [226]}, removed at time:310.0
+
+ entry ID:226, over:{10: [226]}, at time:311.0
+ exit ID:226, over:{10: [226]}, removed at time:311.0
+
+ entry ID:224, over:{5: [224]}, at time:315.0
+ entry ID:232, over:{5: [224, 232]}, at time:315.0
+ entry ID:224, over:{5: [224, 232]}, at time:316.0
+ entry ID:232, over:{5: [224, 232]}, at time:316.0
+ exit ID:224, over:{5: [224, 232]}, removed at time:316.0
+
+ entry ID:229, over:{5: [232], 1: [229]}, at time:317.0
+ entry ID:233, over:{5: [232], 1: [229, 233]}, at time:317.0
+ entry ID:232, over:{5: [232], 1: [229, 233]}, at time:317.0
+ exit ID:229, over:{5: [232], 1: [229, 233]}, removed at time:317.0
+
+ exit ID:232, over:{5: [232], 1: [233]}, removed at time:317.0
+
+ entry ID:233, over:{1: [233]}, at time:318.0
+ exit ID:233, over:{1: [233]}, removed at time:318.0
+
+ entry ID:235, over:{8: [235]}, at time:323.0
+ entry ID:241, over:{8: [235, 241]},  at time:323.0
+ entry ID:231, over:{8: [235, 241], 4: [231]}, at time:324.0
+ entry ID:240, over:{8: [235, 241], 4: [231, 240]}, at time:324.0
+ entry ID:235, over:{8: [235, 241], 4: [231, 240]}, at time:324.0
+ entry ID:241, over:{8: [235, 241], 4: [231, 240]}, at time:324.0
+ exit ID:231, over:{8: [235, 241], 4: [231, 240]}, removed at time:324.0
+
+ exit ID:235, over:{8: [235, 241], 4: [240]}, removed at time:324.0
+
+ entry ID:240, over:{8: [241], 4: [240]}, at time:325.0
+ entry ID:241, over:{8: [241], 4: [240]}, at time:325.0
+ entry ID:240, over:{8: [241], 4: [240]}, at time:326.0
+ entry ID:241, over:{8: [241], 4: [240]}, at time:326.0
+ exit ID:240, over:{8: [241], 4: [240]}, removed at time:326.0
+
+ exit ID:241, over:{8: [241]}, removed at time:326.0
+
+ entry ID:230, over:{7: [230]}, at time:331.0
+ entry ID:249, over:{7: [230, 249]}, at time:331.0
+ entry ID:238, over:{7: [230, 249], 11: [238]}, at time:331.0
+ exit ID:230, over:{7: [230, 249], 11: [238]}, removed at time:331.0
+
+ exit ID:238, over:{7: [249], 11: [238]}, removed at time:331.0
+
+ entry ID:249, over:{7: [249]}, at time:332.0
+ exit ID:249, over:{7: [249]}, removed at time:332.0
+
+ entry ID:236, over:{10: [236]}, at time:337.0
+ entry ID:242, over:{10: [236, 242]}, at time:337.0
+ entry ID:245, over:{10: [236, 242, 245]}, at time:337.0
+ exit ID:236, over:{10: [236, 242, 245]}, removed at time:337.0
+
+ entry ID:242, over:{10: [242, 245]}, at time:338.0
+ entry ID:245, over:{10: [242, 245]}, at time:338.0
+ exit ID:242, over:{10: [242, 245]}, removed at time:338.0
+
+ entry ID:245, over:{10: [245]}, at time:339.0
+ entry ID:245, over:{10: [245]}, at time:340.0
+ exit ID:245, over:{10: [245]}, removed at time:340.0
+
+ entry ID:246, over:{1: [246]}, at time:345.0
+ exit ID:246, over:{1: [246]}, removed at time:345.0
+
+ entry ID:252, over:{5: [252]}, at time:347.0
+ entry ID:256, over:{5: [252, 256]}, at time:347.0
+ exit ID:252, over:{5: [252, 256]}, removed at time:347.0
+
+ entry ID:256, over:{5: [256]}, at time:348.0
+ exit ID:256, over:{5: [256]}, removed at time:348.0
+
+ entry ID:254, over:{4: [254]}, at time:351.0
+ exit ID:254, over:{4: [254]}, removed at time:351.0
+
+ entry ID:260, over:{10: [260]}, at time:355.0
+ entry ID:263, over:{10: [260, 263]},  at time:355.0
+ entry ID:258, over:{10: [260, 263], 11: [258]}, at time:355.0
+ exit ID:260, over:{10: [260, 263], 11: [258]}, removed at time:355.0
+
+ entry ID:263, over:{10: [263], 11: [258]}, at time:356.0
+ entry ID:258, over:{10: [263], 11: [258]}, at time:356.0
+ exit ID:258, over:{10: [263], 11: [258]}, removed at time:356.0
+
+ entry ID:263, over:{10: [263]}, at time:357.0
+ entry ID:263, over:{10: [263]}, at time:358.0
+ exit ID:263, over:{10: [263]}, removed at time:358.0
+
+ entry ID:270, over:{7: [270]}, at time:363.0
+ entry ID:257, over:{7: [270], 8: [257]}, at time:363.0
+ exit ID:270, over:{7: [270], 8: [257]}, removed at time:363.0
+
+ exit ID:257, over:{8: [257]}, removed at time:363.0
+
+ entry ID:262, over:{1: [262]}, at time:368.0
+ entry ID:267, over:{1: [262, 267]}, at time:368.0
+ entry ID:279, over:{1: [262, 267, 279]},  at time:368.0
+ entry ID:268, over:{1: [262, 267, 279], 2: [268]}, at time:368.0
+ entry ID:273, over:{1: [262, 267, 279], 2: [268, 273]}, at time:368.0
+ exit ID:262, over:{1: [262, 267, 279], 2: [268, 273]}, removed at time:368.0
+
+ entry ID:267, over:{1: [267, 279], 2: [268, 273]}, at time:369.0
+ entry ID:279, over:{1: [267, 279], 2: [268, 273]}, at time:369.0
+ entry ID:268, over:{1: [267, 279], 2: [268, 273]}, at time:369.0
+ entry ID:273, over:{1: [267, 279], 2: [268, 273]}, at time:369.0
+ exit ID:267, over:{1: [267, 279], 2: [268, 273]}, removed at time:369.0
+
+ exit ID:268, over:{1: [279], 2: [268, 273]}, removed at time:369.0
+
+ entry ID:279, over:{1: [279], 2: [273]}, at time:370.0
+ entry ID:273, over:{1: [279], 2: [273]}, at time:370.0
+ exit ID:279, over:{1: [279], 2: [273]}, removed at time:370.0
+
+ exit ID:273, over:{2: [273]}, removed at time:370.0
+
+ entry ID:269, over:{4: [269]}, at time:376.0
+ entry ID:280, over:{4: [269, 280]}, at time:376.0
+ entry ID:283, over:{4: [269, 280, 283]}, at time:376.0
+ entry ID:272, over:{4: [269, 280, 283], 10: [272]}, at time:376.0
+ exit ID:269, over:{4: [269, 280, 283], 10: [272]}, removed at time:376.0
+
+ exit ID:272, over:{4: [280, 283], 10: [272]}, removed at time:376.0
+
+ entry ID:280, over:{4: [280, 283]}, at time:377.0
+ entry ID:283, over:{4: [280, 283]}, at time:377.0
+ entry ID:280, over:{4: [280, 283]}, at time:378.0
+ entry ID:283, over:{4: [280, 283]}, at time:378.0
+ exit ID:280, over:{4: [280, 283]}, removed at time:378.0
+
+ entry ID:283, over:{4: [283]}, at time:379.0
+ exit ID:283, over:{4: [283]}, removed at time:379.0
+
+ entry ID:286, over:{5: [286]}, at time:381.0
+ exit ID:286, over:{5: [286]}, removed at time:381.0
+
+ entry ID:287, over:{7: [287]}, at time:387.0
+ entry ID:285, over:{7: [287], 11: [285]}, at time:387.0
+ exit ID:287, over:{7: [287], 11: [285]}, removed at time:387.0
+
+ exit ID:285, over:{11: [285]}, removed at time:387.0
+
+ entry ID:291, over:{8: [291]}, at time:392.0
+ exit ID:291, over:{8: [291]}, removed at time:392.0
+
+ entry ID:289, over:{4: [289]}, at time:395.0
+ exit ID:289, over:{4: [289]}, removed at time:396.0
+
+ entry ID:292, over:{10: [292]}, at time:398.0
+ entry ID:297, over:{10: [292, 297]}, at time:398.0
+ entry ID:299, over:{10: [292, 297, 299]}, at time:398.0
+ exit ID:292, over:{10: [292, 297, 299]}, removed at time:398.0
+
+ entry ID:297, over:{10: [297, 299]}, at time:399.0
+ entry ID:299, over:{10: [297, 299]}, at time:399.0
+ exit ID:297, over:{10: [297, 299]}, removed at time:399.0
+
+ entry ID:299, over:{10: [299]}, at time:400.0
+ exit ID:299, over:{10: [299]}, removed at time:400.0
+
+ entry ID:296, over:{2: [296]}, at time:401.0
+ exit ID:296, over:{2: [296]}, removed at time:401.0
+
+ entry ID:302, over:{7: [302]}, at time:410.0
+ entry ID:304, over:{7: [302, 304]},  at time:410.0
+ exit ID:302, over:{7: [302, 304]}, removed at time:410.0
+
+ entry ID:304, over:{7: [304]}, at time:411.0
+ entry ID:304, over:{7: [304]}, at time:412.0
+ exit ID:304, over:{7: [304]}, removed at time:412.0
+
+ entry ID:308, over:{4: [308]}, at time:421.0
+ entry ID:309, over:{4: [308, 309]}, at time:421.0
+ exit ID:308, over:{4: [308, 309]}, removed at time:421.0
+
+ entry ID:309, over:{4: [309]}, at time:422.0
+ entry ID:309, over:{4: [309]}, at time:423.0
+ exit ID:309, over:{4: [309]}, removed at time:423.0
+
+ entry ID:311, over:{1: [311]}, at time:428.0
+ entry ID:312, over:{1: [311, 312]}, at time:428.0
+ exit ID:311, over:{1: [311, 312]}, removed at time:428.0
+
+ entry ID:312, over:{1: [312]}, at time:429.0
+ exit ID:312, over:{1: [312]}, removed at time:429.0
+
+ entry ID:307, over:{8: [307]}, at time:434.0
+ exit ID:307, over:{8: [307]}, removed at time:434.0
+
+ entry ID:320, over:{5: [320]}, at time:439.0
+ entry ID:315, over:{5: [320], 11: [315]}, at time:439.0
+ exit ID:315, over:{5: [320], 11: [315]}, removed at time:439.0
+
+ entry ID:320, over:{5: [320]}, at time:440.0
+ exit ID:320, over:{5: [320]}, removed at time:440.0
+
+ entry ID:322, over:{2: [322]}, at time:445.0
+ entry ID:322, over:{2: [322]}, at time:446.0
+ exit ID:322, over:{2: [322]}, removed at time:446.0
+
+ entry ID:325, over:{4: [325]}, at time:452.0
+ exit ID:325, over:{4: [325]}, removed at time:452.0
+
+ entry ID:327, over:{2: [327]}, at time:457.0
+ exit ID:327, over:{2: [327]}, removed at time:457.0
+
+ entry ID:334, over:{7: [334]}, at time:462.0
+ entry ID:333, over:{7: [334], 8: [333]}, at time:462.0
+ entry ID:335, over:{7: [334], 8: [333, 335]}, at time:462.0
+ exit ID:334, over:{7: [334], 8: [333, 335]}, removed at time:462.0
+
+ exit ID:333, over:{8: [333, 335]}, removed at time:463.0
+
+ entry ID:330, over:{8: [335], 4: [330]}, at time:464.0
+ entry ID:335, over:{8: [335], 4: [330]}, at time:464.0
+ exit ID:335, over:{8: [335], 4: [330]}, removed at time:464.0
+
+ entry ID:330, over:{4: [330]}, at time:465.0
+ entry ID:330, over:{4: [330]}, at time:466.0
+ entry ID:330, over:{4: [330]}, at time:467.0
+ exit ID:330, over:{4: [330]}, removed at time:467.0
+
+ entry ID:338, over:{11: [338]}, at time:471.0
+ entry ID:338, over:{11: [338]}, at time:472.0
+ exit ID:338, over:{11: [338]}, removed at time:472.0
+
+ entry ID:345, over:{7: [345]}, at time:475.0
+ entry ID:345, over:{7: [345]}, at time:476.0
+ exit ID:345, over:{7: [345]}, removed at time:476.0
+
+ entry ID:343, over:{1: [343]}, at time:477.0
+ entry ID:346, over:{1: [343, 346]}, at time:477.0
+ exit ID:343, over:{1: [343, 346]}, removed at time:477.0
+
+ entry ID:346, over:{1: [346]}, at time:478.0
+ exit ID:346, over:{1: [346]}, removed at time:478.0
+
+ entry ID:339, over:{8: [339]}, at time:483.0
+ entry ID:339, over:{8: [339]}, at time:484.0
+ exit ID:339, over:{8: [339]}, removed at time:484.0
+
+ entry ID:341, over:{10: [341]}, at time:486.0
+ entry ID:341, over:{10: [341]}, at time:487.0
+ entry ID:341, over:{10: [341]}, at time:488.0
+ entry ID:357, over:{10: [341], 4: [357]}, at time:489.0
+ entry ID:341, over:{10: [341], 4: [357]}, at time:489.0
+ exit ID:341, over:{10: [341], 4: [357]}, removed at time:489.0
+
+ entry ID:357, over:{4: [357]}, at time:490.0
+ exit ID:357, over:{4: [357]}, removed at time:490.0
+
+ entry ID:349, over:{5: [349]}, at time:493.0
+ entry ID:359, over:{5: [349, 359]}, at time:493.0
+ entry ID:352, over:{5: [349, 359], 11: [352]}, at time:493.0
+ exit ID:352, over:{5: [349, 359], 11: [352]}, removed at time:493.0
+
+ entry ID:349, over:{5: [349, 359]}, at time:494.0
+ entry ID:359, over:{5: [349, 359]}, at time:494.0
+ exit ID:349, over:{5: [349, 359]}, removed at time:494.0
+
+ entry ID:359, over:{5: [359]}, at time:495.0
+ exit ID:359, over:{5: [359]}, removed at time:495.0
+
+ entry ID:358, over:{7: [358]}, at time:500.0
+ entry ID:360, over:{7: [358], 8: [360]}, at time:500.0
+ entry ID:362, over:{7: [358], 8: [360, 362]}, at time:500.0
+ entry ID:363, over:{7: [358], 8: [360, 362, 363]}, at time:500.0
+ exit ID:358, over:{7: [358], 8: [360, 362, 363]}, removed at time:500.0
+
+ exit ID:360, over:{8: [360, 362, 363]}, removed at time:500.0

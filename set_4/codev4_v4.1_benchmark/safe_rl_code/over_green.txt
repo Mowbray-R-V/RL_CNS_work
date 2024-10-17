@@ -1,0 +1,5 @@
+
+ time:193.0, over ID in that lane:[143], ID in lane:[143, 139, 141, 144, 146, 147, 142, 138, 148, 140, 145]
+ time:194.0, over ID in that lane:[143], ID in lane:[143, 139, 141, 144, 146, 147, 142, 148, 140, 145]
+ time:396.0, over ID in that lane:[289], ID in lane:[290, 293, 295, 296, 289, 300, 294, 298, 288, 292, 297, 299]
+ time:463.0, over ID in that lane:[333, 335], ID in lane:[336, 330, 333, 335, 337, 339, 332, 328, 338]
